@@ -11,4 +11,4 @@ inspired by http://dassur.ma/things/dom2texture/
 </Favicon>
 ```
 
-![example][example.png]
+![example](/example.png)
