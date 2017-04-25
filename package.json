@@ -16,7 +16,9 @@
     "webpack-dev-server": "^2.4.4"
   },
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "predeploy": "webpack",
+    "deploy": "gh-pages -d example"
   },
   "dependencies": {
     "base64-js": "^1.2.0"
