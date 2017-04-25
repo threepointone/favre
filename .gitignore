@@ -17,3 +17,6 @@ xcuserdata
 .svn
 CVS
 node_modules
+
+# Ignore built example
+example/bundle.js
